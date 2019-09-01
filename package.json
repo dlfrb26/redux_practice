@@ -1,0 +1,25 @@
+{
+  "name": "begin-redux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^7.1.1",
+    "react-scripts": "1.0.17",
+    "redux": "^4.0.4",
+    "redux-action": "^1.2.2",
+    "redux-actions": "^2.2.1",
+    "redux-devtools": "^3.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "components": "^0.1.0"
+  }
+}
